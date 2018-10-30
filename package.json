@@ -1,0 +1,17 @@
+{
+  "name": "rx6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.25.0",
+    "rambda": "^1.1.5",
+    "rxjs": "^6.2.2"
+  }
+}
