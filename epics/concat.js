@@ -7,10 +7,10 @@ module.exports = action$ => action$.pipe(
 
 /* @returns
 
-{ type: 'PONG', payload: { name: 'Myungjae Yu' } }
+concat tap :  { type: 'PONG', payload: { name: 'Myungjae Yu' } }
 
-{ type: 'PONG', payload: { name: 'Myungjae Yu' } }
+concat tap :  { type: 'PONG', payload: { name: 'Myungjae Yu' } }
 
-{ type: 'PONG', payload: { name: 'Myungjae Yu' } }
+concat tap :  { type: 'PONG', payload: { name: 'Myungjae Yu' } }
 
 */
